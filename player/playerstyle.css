@@ -1,0 +1,37 @@
+.NJ10{
+    border: 10px solid yellow;
+    border-radius: 10px;
+    color: yellow;
+    font-size: 30px;
+    text-align: center;
+    background-color: green;
+    box-shadow: 10px 10px 10px brown;
+}
+li{
+    font-size: 20px;
+    color: teal;
+    background-color: antiquewhite;
+    border: 10px;
+    border-radius: 10px;
+    text-align: left;
+    font-family: 'Courier New', Courier, monospace;
+    font-style: italic;
+    box-shadow:10px 10px 10px violet;
+}
+.fav{
+    /* background-color: black; */
+    background-image: url(player.jpg);
+    box-shadow: 10px 10px 10px;
+   padding: 10px;
+   /* background-repeat: no-repeat; */
+   /* background-position: center; */
+   /* background-size: cover; */
+}
+p{
+    background-color: aqua;
+    font-size: larger;
+    box-shadow: 10px 10px 10px grey;
+    padding: 10px;
+    border-radius: 10px;
+    /* display: none; */
+}

@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+}
+  
+  
+  .Matha{
+    font-size: 20px;
+    text-align: center;
+    justify-content: space-evenly;
+  }
+  main{
+    text-align: center;
+  }
+  .BTN{
+    background-color: green;
+    color: darkred;
+  }
